@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/networksimulator.jpg
 title: EE367 Network LAN Simulator 
-permalink: projects/vacay
+permalink: projects/NetworkSimulator
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-08
 labels:
