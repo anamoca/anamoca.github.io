@@ -5,7 +5,7 @@ image: images/vacay-square.png
 title: EE367 Network LAN Simulator 
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-01-08
 labels:
   - C
   - GitHub
@@ -16,4 +16,4 @@ summary: The Network Simulator was designed to transfer files at a specific amou
 
 -Upon improvements, the simulator can utilize a simplified DNS server, allowing a user to use a remote host’s domain name to download files from remote host.
 
--Specifically, I worked on the upload functionality of this program that allows it to upload in multiple packets up to a specific amount of bytes. 
+-Specifically, I worked on the upload functionality of this program that allows it to upload in multiple packets up to a specific amount of bytes, starting from a small amount then gradually increasing amounts of bytes for testing.
