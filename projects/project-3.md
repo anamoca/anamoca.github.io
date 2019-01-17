@@ -9,7 +9,7 @@ date: 2016-01-11
 labels:
   - C
   - GitHub
-summary: This calculator was a simple project done for EE 205. It can do simple calculations providing variable-digit outputs.
+summary: This was a simple project done for EE 205. This calculator can do simple calculations providing variable-digit outputs.
 ---
 -This simple calculator was designed to be able to calculate equations and functions and output a number with variable amount of digits. 
 
