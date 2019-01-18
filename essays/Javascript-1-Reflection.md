@@ -8,10 +8,10 @@ labels:
   - Software Engineering
   - Learning
 ---
-
 ## What I Think About Javascript
 Although I am completely new to this coding language, Javascript does seem similar to coding languages that I am familiar with, such as C/C++. The semester did just start, but Javascript seems to not be too difficult, most likely due to the fact that I had coding experiences beforehand. Tools such as freecodecamp.org did provide a good amount of help to get up to speed with Javascript and its basics. It does seem a bit early to provide thoughts about Javascript in my opinion, but as I mentioned before it does seem familiar in relation to previous coding languages that I have learned in my previous years in UH Manoa.
 
+## Is Javascript Good or Bad?
 Javascript can be a good or bad programming language depending on the situation, but in general I do think it's a good programming language considering the different learning experiences that I can possibly gain from this coding language. Such experiences can be applied to other situations as well, such as the similarity in syntax, different algorithms to apply, and so on. 
 
 ## What I Think About Athletic Software Engineering
