@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img class="ui medium left floated image" src="../images/question.png">
+<img class="ui medium left floated image" src="../images/question.jpg">
 
 ## How people ask questions and why
 From a computer engineering perspective, coding in general can be hard. The difficulty can differ among many others in different ways. And because of that difficulty these people, especially the fresh coding starters, tend to ask questions too soon and seem like they're ready to give up; although there are others who actually spend the time to work on coding problems but like I mentioned there are varying situations. Whatever the situation may be, how people ask the question is the main topic at hand. When people ask for help on a specific situation, other people that can provide that assistance sometimes follow along the lines of "depending on how you ask the question I will give you the answer accordingly based on my current knowledge". Considering this there have been situations of miscommunication between others along with misunderstandings that can lead to dangerous situations that may insult or demean different parties involved with these problems. Sometimes the personality of some specific people may be an issue to deal with between the two parties, one of which is asking the question and the other that is willing to provide the assistance. Which considers the idea of how one should go about asking a question in a "smart way" that can benefit others without having to cause issues in providing assistance and solutions.
