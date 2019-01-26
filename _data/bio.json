@@ -67,6 +67,11 @@
       "endDate": "Present",
       "gpa": "2.82",
       "courses": [
+        "EE160",
+        "EE205",
+        "EE260",
+        "EE367",
+        "EE468",
       ]
     }
   ],
