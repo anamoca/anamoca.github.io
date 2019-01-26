@@ -34,6 +34,9 @@
         "Arduino",
         "Raspberry Pi"
       ]
+    },
+    {
+      "name": "software engineering",
     }
   ],
   "skills": [
@@ -54,7 +57,7 @@
         "Ubuntu",
         "Git/GitHub",
         "React",
-        "Windows 10"
+        "Windows 10",
       ]
     }
   ],
