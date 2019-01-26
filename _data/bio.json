@@ -78,6 +78,21 @@
       ]
     }
   ],
+  "volunteer": [
+    {
+      "organization": "Convalescent Center of Honolulu",
+      "position": "Volunteer",
+      "startDate": "2009-08-25",
+      "endDate": "Present",
+      "summary": "Assisted, alongside nurses, the elderly and sick with simple needs."
+    },
+    {
+      "organization": "Independent Digital Artist",
+      "position": "Digital Artist",
+      "startDate": "2005-07-26",
+      "endDate": "Present",
+      "summary": "Draws as a hobby, alonog with doing commissions as per request."
+    }
   "awards": [
     {
       "title": "Eli Hunter Matangitokelau Thompson '93 Scholarship",
