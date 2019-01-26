@@ -9,11 +9,9 @@ date: 2018-01-08
 labels:
   - C
   - GitHub
-summary: The Network Simulator was designed to transfer files at a specific amount of bytes from client to server and vice versa utilizing different tools and methods. 
 ---
+<img class="ui tiny left circular floated image" src="../images/serverclient.jpg">
 
--Worked in a team to design and improve upon this simulator to upload and download files between client and server.
+summary: The Network Simulator was designed to transfer files at a specific amount of bytes from client to server and vice versa utilizing different tools and methods. 
 
--Upon improvements, the simulator can utilize a simplified DNS server, allowing a user to use a remote host’s domain name to download files from remote host.
-
--Specifically, I worked on the upload functionality of this program that allows it to upload in multiple packets up to a specific amount of bytes, starting from a small amount then gradually increasing amounts of bytes for testing.
+In this project I worked in a team to design and improve upon a Network LAN Simulator. Its functions include uploading and downloading files between client and server. The first step was to make it able to upload and download in packets of specific sizes and then be able to enlarge the size later on with other improvements. Upon these improvements the simulator can utilize a simplified DNS server, allowing a user to use a remote host’s domain name to download files from remote host. Specifically, I worked on the upload functionality of this program that allows it to upload in multiple packets up to a specific amount of bytes, starting from a small amount then gradually increasing amounts of bytes for testing.
