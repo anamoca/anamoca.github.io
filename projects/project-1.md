@@ -10,7 +10,7 @@ labels:
   - Arduino
   - C
 ---
-<img class="ui tiny left circular floated image" src="../images/stoplight.jpg">
+<img class="ui tiny left circular floated image" src="../images/stoplight.png">
 
 Summary: My partner and I created a stoplight that uses a speaker to emit sounds of different pitch depending on what light is lit; this utilizes an Arduino Uno.
 
