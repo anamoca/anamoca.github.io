@@ -2,7 +2,7 @@
   "basics": {
     "name": "Allen Namoca",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/self.PNG",
+    "picture": "https://anamoca.github.io/images/self.PNG",
     "email": "anamoca@hawaii.edu",
     "phone": "808-497-0056",
     "website": "https://anamoca.github.io",
@@ -34,12 +34,7 @@
         "Arduino",
         "Raspberry Pi"
       ]
-    },
-    {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
+    }
   ],
   "skills": [
     {
