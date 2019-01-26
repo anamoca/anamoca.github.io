@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Allen Namoca",
+    "name": "Molly Maluhia",
     "label": "Student",
-    "picture": "https://anamoca.github.io/images/self.PNG",
-    "email": "anamoca@hawaii.edu",
-    "phone": "808-497-0056",
-    "website": "https://anamoca.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii. I expect to graduate in Fall 2019.",
+    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "email": "molly@hawaii.edu",
+    "phone": "808-333-4444",
+    "website": "https://mmaluhia.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96076",
+      "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,22 +17,44 @@
     "profiles": [
       {
         "network": "github",
-        "username": "anamoca",
-        "url": "http://github.com/anamoca"
+        "username": "mmaluhia",
+        "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "anamoca",
-        "url": "http://linkedin.com/in/anamoca"
+        "username": "mollymaluhia",
+        "url": "http://linkedin.com/in/changeme"
+      },
+      {
+        "network": "twitter",
+        "username": "mollymal",
+        "url": "http://twitter.com/changeme"
+      },
+      {
+        "network": "instagram",
+        "username": "molly",
+        "url": "http://instagram.com/changeme"
       }
     ]
   },
   "interests": [
     {
-      "name": "software engineering",
+      "name": "internet of things",
+      "keywords": [
+        "Arduino",
+        "TI MSP430"
+      ]
+    },
+    {
+      "name": "data mining",
       "keywords": [
       ]
     },
+    {
+      "name": "artificial intelligence",
+      "keywords": [
+      ]
+    }
   ],
   "skills": [
     {
@@ -41,49 +63,51 @@
       "keywords": [
         "C",
         "C++",
+        "Java",
         "Javascript",
         "Assembly",
+        "Common Lisp"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Windows 10",
+        "MacOS",
         "Ubuntu",
         "Git/GitHub",
+        "g++",
+        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Fall 2019)",
+      "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "August, 2012",
+      "startDate": "2013-09-01",
       "endDate": "Present",
-      "gpa": "2.82",
-      "courses(completed)": [
-        "EE160",
-        "EE205",
-        "EE211",
-        "EE213",
-        "EE260",
-        "EE315",
-        "EE323",
-        "EE324",
-        "EE361",
-        "EE367",
-        "EE371",
-        "EE468",
+      "gpa": "",
+      "courses": [
       ]
     }
   ],
-"awards": [
+  ],
+  "volunteer": [
+    {
+      "organization": "Convalescent Center of Honolulu",
+      "startDate": "2009-08-25",
+      "endDate": "2012-05-23",
+      "summary": "Assisted in providing help for the elderly and sick with simple needs.",
+
+    }
+  ],
+  "awards": [
     {
       "title": "Eli Hunter Matangitokelau Thompson '93 Scholarship",
       "date": "2011",
-      "awarder": "Saint Louis School",
+      "awarder": "Saint Louis School, Hawaii",
       "summary": ""
     }
   ]
