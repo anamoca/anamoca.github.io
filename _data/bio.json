@@ -84,13 +84,19 @@
     "startDate": "August, 2009",
     "endDate": "May, 2012",
   ],
-  "awards": [
+   "awards": [
     {
       "title": "Eli Hunter Matangitokelau Thompson '93 Scholarship",
       "date": "2012",
       "awarder": "State of Hawaii",
       "summary": ""
-    }
-    ]
+    },
+    
   ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ]
 }
