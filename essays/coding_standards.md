@@ -1,13 +1,14 @@
 ---
 layout: essay
 type: essay
-title: My Thoughts On Coding Standards and New Accessible Tools
+title: My Thoughts on Coding Standards and New Tools
 # All dates must be YYYY-MM-DD format!
-date: 2019-02-07
+date: 2019-01-24
 labels:
   - Software Engineering
   - Learning
 ---
+
 
 <img class="ui medium left floated image" src="../images/codingstandards.png">
 
