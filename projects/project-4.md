@@ -12,7 +12,7 @@ labels:
   - Meteor
 summary: My group and I created a website that allows the user to search specific locations that serve food that was looked up by the user, along with reviewing them. 
 ---
-<img class="ui medium right floated rounded image" src="../images/foodiecravings2.PNG">
+<img class="ui medium right floated rounded image" src="../images/foodiecravings.png">
 
 For example, if the user were to look up the term 'Chicken' using the search function of the website, they would be able to see a dropdown list containing different food options pertaining to the word 'Chicken'. Choosing any of those options would allow that food to be listed within the Search Results page. The user can also create their own profiles to be able to 'Add Food' options to the website to be able to review and keep a list of them if they were considering of going back for seconds to that restaurant, or if they needed other options. Generally speaking, the user can create their profile, search for specific foods, add foods to their own profile along with favoriting them, and provide reviews and ratings as how they see fit as long as it is appropriate.
 
