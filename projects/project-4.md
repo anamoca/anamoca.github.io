@@ -2,20 +2,25 @@
 layout: project
 type: project
 image: images/foodiecravings.png
-title: EE296ArduinoUno - Junction Stoplight with Sound 
-permalink: projects/ArduinoStoplightWithSound
+title: Foodie Cravings - Food Review Website
+permalink: projects/foodiecravings
 # All dates must be YYYY-MM-DD format!
-date: 2018-08-20
+date: 2019-08-05
 labels:
-  - Arduino
-  - C
-summary: My partner and I created a stoplight that uses a speaker to emit sounds of different pitch depending on what light is lit; this utilizes an Arduino Uno.
+  - Javascript
+  - HTML/CSS
+  - Meteor
+summary: My group and I created a website that allows the user to search specific locations that serve food that was looked up by the user, along with reviewing them. 
 ---
-<img class="ui medium right floated rounded image" src="../images/foodiecravings2.png">
+<img class="ui medium right floated rounded image" src="../images/foodiecravings2.PNG">
 
+For example, if the user were to look up the term 'Chicken' using the search function of the website, they would be able to see a dropdown list containing different food options pertaining to the word 'Chicken'. Choosing any of those options would allow that food to be listed within the Search Results page. The user can also create their own profiles to be able to 'Add Food' options to the website to be able to review and keep a list of them if they were considering of going back for seconds to that restaurant, or if they needed other options. Generally speaking, the user can create their profile, search for specific foods, add foods to their own profile along with favoriting them, and provide reviews and ratings as how they see fit as long as it is appropriate.
 
+For the development of this website, I was able to contribute to adding the 'Add Food/Edit Food' functionalities where the user will be able to add and edit food items; for example they would be able to add 'Mochicko Chicken' to their profile and edit the price if it were to change from $8 to 9$. I was also able to contribute to adding a 'Comment' section per card, allowing users to not only add their foods and rate it, but to comment it as well for specific details regarding that food. I've also assisted other group members with their parts when needed and assisted in adding more defaultFood data to be shown as examples and cleanup by removing unnecessary files and fixing eslint errors. 
 
-You can learn more at the [Computer Engineering EE 296 Embedded System Design website](http://ee.hawaii.edu/student/project.php?stc=1&pco=1&pro=40).
+With this project comes with great learning experiences. I have come to learn more about web development along with its applications and benefits. It was a struggling yet fun experience to go through; with this I've also come to realize how amazing these new tools and coding languages can be that I may possibly do more personal projects when time allows it. 
+
+You can learn more at the [Foodie Cravings Github Website](https://foodiecravings.github.io/).
 
 
 
