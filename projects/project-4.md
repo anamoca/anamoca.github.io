@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/foodiecravings.png
+image: images/foodiecravingslogo.png
 title: Foodie Cravings - Food Review Website
 permalink: projects/foodiecravings
 # All dates must be YYYY-MM-DD format!
