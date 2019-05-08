@@ -10,6 +10,8 @@ labels:
   - Javascript
   - HTML/CSS
   - Meteor
+  - Software Engineering
+  - ICS 314
 summary: My group and I created a website that allows the user to search specific locations that serve food that was looked up by the user, along with reviewing them. 
 ---
 <img class="ui medium right floated rounded image" src="../images/foodiecravings.png">
